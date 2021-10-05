@@ -1,0 +1,28 @@
+Name : Aniket Kadam
+	MITWPU
+........................................................
+
+Interview Shedule Web app
+Language- C#, SQL Server
+
+........................................................
+Database name - interview (present in App_Data Folder)
+
+........................................................
+
+2 Login form for
+	1.Student
+	2.Recruiter
+1 Register + BookSlot Form (Only for student)
+	(where student can book slot & register)
+
+.......................................................
+			Student
+Register & Book Slot -> Login (Studentlogin) -> HomePage -> View Slot (View status of Booked slots) -> logout
+
+........................................................
+
+			Recruiter
+Login(Recruiter) -> HomePage -> CheckStudentStatus(Accept/Reject) -> LogOut
+
+..........................................................
